@@ -1,0 +1,51 @@
+NAME:D CHINMAYEE
+
+COMPANY: Skillcraft technology
+
+ID: SCT/NOV24/5437
+
+DOMAIN: SOFTWARE DEVELOPMENT
+
+DURATION:4 WEEKS
+
+OVERVIEW OF THE PROJECT
+![Screenshot (7)](https://github.com/user-attachments/assets/c97081dd-0356-477a-9eab-e60f13ce0f83)
+
+PROJECT: CREATE A PROGRAM THAT SOLVES SUDOKU PUZZLES AUTOMATICALLY.THE PROGRAM SHOULD TAKE AN INPUT GRID REPRESENTING AN UNSOLVED SUDOKU PUZZLE AND USE AN ALGORITHM TO FILL IN THE MISSING NUMBERS.
+
+OBJECTIVE:
+Accurate Puzzle Solving:
+
+Implement an algorithm that can accurately solve Sudoku puzzles by filling in the missing numbers in the input grid.
+
+Efficient Algorithm Design:
+
+Develop an efficient algorithm, such as backtracking, that can solve Sudoku puzzles within a reasonable time frame.
+
+Input Handling:
+
+Design the program to accept an unsolved Sudoku puzzle as input in a structured format (e.g., a 2D array or matrix).
+
+Validation of Input Grid:
+
+Ensure that the input grid is a valid Sudoku puzzle, with appropriate checks for initial conditions.
+
+Clear Output:
+
+Provide a clear and readable output of the solved Sudoku puzzle, maintaining the standard Sudoku grid format.
+
+User-Friendly Interface:
+
+Create an intuitive user interface or command-line interaction that guides users to input the puzzle and view the solution.
+
+Handling Edge Cases:
+
+Account for edge cases, such as invalid puzzles or multiple solutions, and handle them appropriately.
+
+Scalability:
+
+Design the program to handle various levels of difficulty, from easy to challenging Sudoku puzzles.
+
+Educational Value:
+
+Help users understand the process of solving Sudoku puzzles by providing insights into the algorithm used.
